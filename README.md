@@ -21,6 +21,6 @@ team.save()<br>
 
 ### Code for adding players.
 
-Players(name="Marcos Llorente", age="27", team=team).save()<br><br>
+Players(name="Marcos Llorente", age="27", team=team).save()<br>
 Players(name="Antonie Griezman", age="31", team=team).save()<br>
 Then go to SQLite database and see the changes done.<br>
